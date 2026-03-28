@@ -1,7 +1,3 @@
-const nextConfig = {
-  experimental: {
-    ppr: 'incremental'
-  }
-};
+const nextConfig = {};
 
 export default nextConfig;
